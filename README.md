@@ -5,3 +5,7 @@ react-first https://react-final-2e586.web.app/
 
 
 second -> ზუსტად იგივე https://react-2-70f78.web.app/
+
+
+!!!
+API NO LONGER WORKS :)
